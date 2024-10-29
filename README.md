@@ -4,10 +4,10 @@ Hi 👋 My name is Paul Cristea
 Full Stack Developer
 --------------------
 
-* 🌍  I'm based in Bucharest, Romania
-* ✉️  You can contact me at [cristeapaul.2015\[at\]gmail.com](mailto:cristeapaul.2015[at]gmail.com)
-* 🚀  I'm currently working on [ArtRadio](http://app.artradio.link)
-* 🧠  I'm learning FastAPI, Spring Boot, Concurrency and Parallelism
+* 🌍  I'm based in Bucharest, Romania.
+* ✉️  You can contact me at [cristeapaul.2015\[at\]gmail.com](mailto:cristeapaul.2015[at]gmail.com).
+* 🚀  I'm currently working on [ArtRadio](http://app.artradio.link).
+* 🧠  I'm learning FastAPI, Spring Boot and trying to deep dive Concurrency and Parallelism concepts.
 
 <a href="https://www.github.com/devraider" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/devraider?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
